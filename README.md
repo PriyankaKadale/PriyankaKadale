@@ -9,6 +9,9 @@
 </a>
   
 <br/>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=Profile%20views&color=129e00&style=plastic" alt="PriyankaKadale" /> </p>
+
   <br/>
   
 - 🔭 I’m currently working on ...
