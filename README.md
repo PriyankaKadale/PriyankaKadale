@@ -27,12 +27,10 @@
   <img width="550" src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
 </p>
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaKadale&show_icons=true&locale=en&layout=compact" alt="PriyankaKadale" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaKadale&show_icons=true&locale=en&layout=compact" alt="PriyankaKadale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" /></p>
-</details>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" /></p>
