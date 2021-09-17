@@ -12,8 +12,7 @@
 <a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/">
   <img align="center" alt="Priyanka Kadale LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="PriyankaKadale" height="30"    width="40"/></a>
   <a href="mailto:kadalepriyanka.2016@gmail.com">
-  <img align="center" alt="Priyanka Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> 
+  <img align="center" alt="Priyanka Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="PriyankaKadale" height="30" width="40"/></a>
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaKadale&show_icons=true&locale=en&layout=compact" alt="PriyankaKadale" /></p>
