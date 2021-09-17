@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PriyankaKadale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/" target="blank"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PriyankaKadale" height="30" width="40" /></a>
 <a href="mailto:kadalepriyanka.2016@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="PriyankaKadale" height="30" width="40" /></a>
 </p>
 
@@ -24,12 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaKadale&show_icons=true&locale=en&layout=compact" alt="PriyankaKadale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" /></p>
-  
-  <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
 </details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" /></p>
