@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/">
   <img align="left" alt="Priyanka Kadale LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
   <a href="mailto:kadalepriyanka.2016@gmail.com">
   <img align="left" alt="Priyanka Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+  
 <br/>
   <br/>
   
