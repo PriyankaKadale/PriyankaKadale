@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700",img height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img width="900",img height="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanka</h1><p align="center">
 <h3 align="center">A Data Science Enthusiast!!</h3>
