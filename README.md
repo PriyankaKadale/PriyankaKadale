@@ -1,7 +1,6 @@
-<p align="left">
-  <img width="700" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<p align="center">
+  <img width="800" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
-
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanka</h1><p align="center">
 <h3 align="center">A Data Science Enthusiast!!</h3>
 
@@ -24,15 +23,15 @@
  <br/>
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaKadale&show_icons=true&locale=en&layout=compact" alt="PriyankaKadale" /></p>
- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" /></p>
 
  <p align="left">
   <img width="500" src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
 </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
+
 
 
 
