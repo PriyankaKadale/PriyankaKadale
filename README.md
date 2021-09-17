@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
 <p align="right">
-  <img width="500" src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
+  <img width="400" src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" /></p>
