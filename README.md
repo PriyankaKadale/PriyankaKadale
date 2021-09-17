@@ -5,7 +5,7 @@
 <h3 align="center">A Data Science Enthusiast!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="PriyankaKadale" /> </p>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning **Data Science, Tableau,SQL,Artificial Intelligence, Python, R Programming**
@@ -28,7 +28,7 @@
  <p align="left">
   <img width="500" src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" /></p>
 
 
