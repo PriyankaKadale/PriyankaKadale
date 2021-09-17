@@ -6,15 +6,15 @@
 
   <br/>
 
-  <b> Connect with me on :</b><br/>
-  <a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/">
-  <img align="left" alt="Priyanka Kadale LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">  
+<a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/">
+  <img align="center" alt="Priyanka Kadale LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="PriyankaKadale" height="30"    width="40"/></a>
   <a href="mailto:kadalepriyanka.2016@gmail.com">
-  <img align="left" alt="Priyanka Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Priyanka Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
-<br/>
- 
+  </p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
