@@ -7,7 +7,7 @@
   <a href="mailto:kadalepriyanka.2016@gmail.com">
   <img align="left" alt="Priyanka Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-![](https://komarev.com/ghpvc/?username=PriyankaKadale)
+![](https://github.com/PriyankaKadale/PriyankaKadale?username=PriyankaKadale)
 
 <br />
   
