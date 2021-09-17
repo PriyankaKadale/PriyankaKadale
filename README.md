@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, this is Priyanka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1><p align="center">
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanka</h1><p align="center">
 <h3 align="center">A Data Science Enthusiast!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="PriyankaKadale" /> </p>
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/" target="blank"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PriyankaKadale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PriyankaKadale" height="30" width="40" /></a>
 <a href="mailto:kadalepriyanka.2016@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="PriyankaKadale" height="30" width="40" /></a>
 </p>
 
