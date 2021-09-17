@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img width="700" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanka</h1><p align="center">
 <h3 align="center">A Data Science Enthusiast!!</h3>
@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="PriyankaKadale" /> </p>
   <img align="right" alt="Coding" width="550" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning **Data Science, Tableau,SQL,Artificial Intelligence, Python, R Programming**
 - 📫 How to reach me: **kadalepriyanka.2016@gmail.com**
 
@@ -28,8 +27,6 @@
    <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
 </p>
 
-<br/>
-<br/>
 
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
 </p>
