@@ -10,7 +10,7 @@
   
 <br/>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=Profile%20views&color=129e00&style=plastic" alt="PriyankaKadale" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=Profile%20views&color=red&style=plastic" alt="PriyankaKadale" /> </p>
 
   <br/>
   
