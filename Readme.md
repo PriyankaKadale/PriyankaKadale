@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="400" />
 
 </p>
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanka</h1><p align="center">
@@ -22,10 +22,10 @@
  <br/>
  
  <p><img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
+    <img align="center" height="200" width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
 </p>
 
-   <p> <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+   <p> <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
 </p>
   <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
