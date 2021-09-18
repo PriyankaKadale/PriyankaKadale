@@ -27,7 +27,7 @@
 
    <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
 
-  <img align="right" alt="Coding" width="350" height="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"></p>
+  <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"></p>
 
 
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
