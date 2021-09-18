@@ -26,14 +26,13 @@
 </p>
 
    <p><img align="right" width="350"alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-      <img align="center"width="350"  src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+      <img align="center"width="370"  src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
    </p>
 
 
 <p> <img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
-</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
 
 
 
