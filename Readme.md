@@ -22,10 +22,10 @@
  <br/>
  
  <p><img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
-    <img align="center" height="200" width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
+    <img align="center" height="150" width="250"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
 </p>
 
-   <p> <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+   <p> <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
 </p>
   <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
