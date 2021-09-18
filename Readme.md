@@ -25,9 +25,10 @@
     <img align="center" height="250" width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
 </p>
 
-   <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+   <p>        <img align="right" width="350"alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-  <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"></p>
+   <img align="left" width="350"  src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+   </p>
 
 
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
