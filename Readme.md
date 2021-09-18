@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Data Science, Tableau,SQL,Artificial Intelligence, Python, R Programming**
 - 📫 How to reach me: **kadalepriyanka.2016@gmail.com**
 - 💬 Ask me about ... Anything
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanka-kadale-6689a1152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PriyankaKadale" height="30" width="40" /></a>
@@ -22,12 +22,12 @@
  <br/>
  
  <p><img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
-    <img align="center" height="150" width="250"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
+    <img align="center" height="250" width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaKadale&theme=light&hide_langs_below=1" />
 </p>
 
-   <p> <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+   <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
 </p>
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+  <img align="right" alt="Coding" width="380" height="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
