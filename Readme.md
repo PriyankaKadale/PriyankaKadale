@@ -30,7 +30,7 @@
    </p>
 
 
-<p> <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
+<p> <img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
 
 
