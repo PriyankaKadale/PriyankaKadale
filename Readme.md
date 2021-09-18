@@ -5,7 +5,7 @@
 <h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Priyanka</h2><p align="center">
 <h3 align="center">A Data Science Enthusiast!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="PriyankaKadale" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaKadale&label=PROFILE+VIEWS&color=ff69b4&style=plastic" alt="PriyankaKadale" /> </p>
  
 - 🌱 I’m currently learning **Data Science, Tableau,SQL,Artificial Intelligence, Python, R Programming**
 - 📫 How to reach me: **kadalepriyanka.2016@gmail.com**
