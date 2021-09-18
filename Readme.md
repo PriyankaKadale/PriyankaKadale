@@ -26,7 +26,7 @@
 </p>
 
    <p><img align="right" width="350"alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-      <img align="center" width="330" height="300"  src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
+      <img align="center"   src="https://github-readme-stats.vercel.app/api?username=PriyankaKadale&show_icons=true&locale=en" alt="PriyankaKadale" />
    </p>
 
 
