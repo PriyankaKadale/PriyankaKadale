@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/83126231/138587856-c3c7024f-8c66-473e-9af9-432dc1abde20.mp4
 
 <p align="center">
    <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="400" />
