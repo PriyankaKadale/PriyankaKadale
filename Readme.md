@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/83126231/138587856-c3c7024f-8c66-473e-9af9-432dc1abde20.mp4
+
 <p align="center">
    <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="400" />
 
@@ -33,9 +35,6 @@
 
 <p> <img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakadale&" alt="priyankakadale" />
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankakadale" alt="priyankakadale" /></a> </p>
-
-
-
 
 
 
